@@ -3,7 +3,7 @@
 ¡Hola! Soy Victor, Analista de Datos con una sólida experiencia como Ingeniero de Procesos. Mi trayectoria profesional combina habilidades técnicas, análisis de datos y optimización de procesos para lograr soluciones eficientes y basadas en datos.  
 
 ## 🌟 Sobre mí  
-- Ingeniero de Procesos con 5 años de experiencia en la mejora continua, optimización de operaciones y gestión de proyectos.  
+- Ingeniero de Procesos con 6 años de experiencia en la mejora continua, optimización de operaciones y gestión de proyectos.  
 - Analista de Datos apasionado por transformar grandes volúmenes de información en decisiones estratégicas.  
 - Experiencia trabajando en el análisis y mejora de sistemas complejos.  
 
