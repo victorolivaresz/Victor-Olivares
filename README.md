@@ -1,6 +1,6 @@
 # Data Analytics Portfolio - [Tu Nombre]  
 
-¡Hola! Soy [Tu Nombre], Analista de Datos con una sólida experiencia como Ingeniero de Procesos. Mi trayectoria profesional combina habilidades técnicas, análisis de datos y optimización de procesos para lograr soluciones eficientes y basadas en datos.  
+¡Hola! Soy Victor Olivares, Analista de Datos con una sólida experiencia como Ingeniero de Procesos. Mi trayectoria profesional combina habilidades técnicas, análisis de datos y optimización de procesos para lograr soluciones eficientes y basadas en datos.  
 
 ## 🌟 Sobre mí  
 - Ingeniero de Procesos con 5 años de experiencia en la mejora continua, optimización de operaciones y gestión de proyectos.  
