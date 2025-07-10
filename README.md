@@ -26,5 +26,3 @@ Mi objetivo es unir el análisis de datos y la optimización de procesos para re
 ## 📩 Contáctame  
 - **Correo:** victor.olivares.zepeda@gmail.com
 - **LinkedIn:**  https://www.linkedin.com/in/victor-olivares-zepeda-38149a7b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bof1CuQshQ8GU%2BQN6TtDRBQ%3D%3D
-
-¡Gracias por visitar mi portafolio! 😊  
